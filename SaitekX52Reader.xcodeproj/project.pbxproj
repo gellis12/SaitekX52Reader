@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		AD096C721AC6C3E4008699C2 /* SaitekX52Reader */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SaitekX52Reader; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD096C751AC6C3E4008699C2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AD096C7C1AC6C448008699C2 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		AD096C7D1AC6C483008699C2 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,8 @@
 		AD096C691AC6C3E3008699C2 = {
 			isa = PBXGroup;
 			children = (
+				AD096C7C1AC6C448008699C2 /* .gitignore */,
+				AD096C7D1AC6C483008699C2 /* LICENSE */,
 				AD096C741AC6C3E4008699C2 /* SaitekX52Reader */,
 				AD096C731AC6C3E4008699C2 /* Products */,
 			);
